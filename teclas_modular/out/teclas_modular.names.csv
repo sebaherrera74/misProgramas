@@ -1,0 +1,198 @@
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000300 0000000a t botonLiberado
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00030a 0000000e t botonPresionado
+misProgramas/teclas_modular/out/teclas_modular.elf:10000048 00000018 b delayTecla
+misProgramas/teclas_modular/out/teclas_modular.elf:10000060 00000001 b estadoTecla
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00048c 00000044 t Board_LED_Init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0004d0 00000040 t Board_TEC_Init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000510 00000040 t Board_GPIO_Init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000550 00000030 t Board_ADC_Init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000580 00000038 t Board_SPI_Init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0005b8 00000024 t Board_I2C_Init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00196c 00000008 t GpioButtons
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001974 0000000c t GpioLeds
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001980 00000012 t GpioPorts
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001998 00000004 t InitClkStates
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00199c 00000074 t pinmuxing
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0006e8 0000002c t Chip_UART_GetIndex
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001a10 00000008 t UART_BClock
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001a18 00000008 t UART_PClock
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000844 00000014 t Chip_ADC_GetClockIndex
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000858 00000032 t getClkDiv
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00090c 000000a0 t pll_calc_divs
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0009ac 0000010c t pll_get_frac
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000ab8 0000004c t Chip_Clock_FindBaseClock
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000d2c 00000022 t Chip_Clock_GetDivRate
+misProgramas/teclas_modular/out/teclas_modular.elf:10000064 00000008 b audio_usb_pll_freq
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001a2c 0000006c t periph_to_base
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001a98 00000048 t InitClkStates
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001008 00000014 t Chip_SSP_GetClockIndex
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00101c 00000018 t Chip_SSP_GetPeriphClockIndex
+misProgramas/teclas_modular/out/teclas_modular.elf:10000000 00000038 d i2c
+misProgramas/teclas_modular/out/teclas_modular.elf:10000038 00000004 d ClockSpeed
+misProgramas/teclas_modular/out/teclas_modular.elf:1000006c 00000004 b callBackFuncParams
+misProgramas/teclas_modular/out/teclas_modular.elf:10000070 00000008 b tickCounter
+misProgramas/teclas_modular/out/teclas_modular.elf:10000078 00000004 b tickHookFunction
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001258 00000034 t gpioObtainPinInit
+misProgramas/teclas_modular/out/teclas_modular.elf:1000007c 00000004 b g_hUsb
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001bcc t __init_array_end
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001bc8 b __preinit_array_end
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001bc8 t __init_array_start
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001bc8 b __preinit_array_start
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000b50 0000001c T Chip_Clock_GetDividerSource
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W TIMER2_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000184 00000002 W DebugMon_Handler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W RIT_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a080000 A __top_MFlashA512
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W ADCHS_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000114 T __section_table_start
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W FLASH_EEPROM_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W I2C0_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000630 00000008 T __stdio_init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0015b0 0000003e T delayRead
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00017a 00000002 W HardFault_Handler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000000 A __vectors_start__
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0008fe 0000000c T Chip_ADC_SetResolution
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000334 000000a4 T actualizar_tecla
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00122c 0000002c T SysTick_Handler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0003fc 00000002 W initialise_monitor_handles
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W SDIO_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W ATIMER_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000186 00000002 W PendSV_Handler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000178 00000002 W NMI_Handler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001bd4 R __exidx_end
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000150 T __data_section_table_end
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W I2C1_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W UART1_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W GPIO5_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W CAN1_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:53ff748e A __valid_user_code_checksum
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001bd4 R _etext
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W USB1_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W I2S0_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W TIMER3_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000dce 0000000c T Chip_Clock_GetBaseClocktHz
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W UART0_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001a8 00000012 T bss_init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W SGPIO_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00160c T __aeabi_uldivmod
+misProgramas/teclas_modular/out/teclas_modular.elf:10000088 ? _noinit
+misProgramas/teclas_modular/out/teclas_modular.elf:10000080 00000004 B SystemCoreClock
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000714 00000054 T Chip_UART_Init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W ADC0_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000180 00000002 W UsageFault_Handler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000e4c 0000004c T Chip_Clock_GetRate
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W GPIO6_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000670 0000006c T Board_SetupClocking
+misProgramas/teclas_modular/out/teclas_modular.elf:20008000 A __top_RamAHB32
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00163c 000002d0 T __udivmoddi4
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001968 00000004 T ExtRateIn
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W IntDefaultHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000300 T __CRP_WORD_END__
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W GPIO1_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W SSP0_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001bcc R __exidx_start
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0002fc 00000004 T CRP_WORD
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001910 00000048 T __libc_init_array
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W ADC1_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000600 00000030 T Board_Init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00048a 00000002 W _init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000114 T __data_section_table
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W RTC_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:10000088 B _ebss
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W TIMER0_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000400 00000088 T Reset_Handler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0011b0 0000007c T tickInit
+misProgramas/teclas_modular/out/teclas_modular.elf:20010000 A __top_RamAHB_ETB16
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W SPI_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001100 00000038 T Chip_I2C_SetClockRate
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W LCD_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000b04 0000004c T Chip_Clock_EnableCrystal
+misProgramas/teclas_modular/out/teclas_modular.elf:10008000 A __top_RamLoc32
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00018a 0000001e T data_init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W TIMER1_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0010dc 00000024 T Chip_I2C_Init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W UART2_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000cc0 0000006c T Chip_Clock_GetMainPLLHz
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001ae0 000000e6 T gpioPinsInit
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001034 00000012 T Chip_SSP_SetClockRate
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00150a 00000016 T gpioToggle
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W GPIO2_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000da8 00000026 T Chip_Clock_GetBaseClock
+misProgramas/teclas_modular/out/teclas_modular.elf:10000048 B _bss
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0008cc 00000032 T Chip_ADC_SetSampleRate
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W I2S1_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001046 0000003e T Chip_SSP_SetBitRate
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000eac 00000002 T Chip_GPIO_Init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001994 00000004 T OscRateIn
+misProgramas/teclas_modular/out/teclas_modular.elf:10000088 ? _end_noinit
+misProgramas/teclas_modular/out/teclas_modular.elf:10008000 A _vStackTop
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W SSP1_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000178 T __bss_section_table_end
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00128c 000001ac T gpioInit
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00190c 00000002 W __aeabi_ldiv0
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001520 0000001c T USB0_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W GPIO3_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W SCT_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000b6c 0000001c T Chip_Clock_GetDividerDivisor
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0002fc T __CRP_WORD_START__
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001958 00000010 T memset
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0003e8 00000014 T secuencia_lenta
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00017c 00000002 W MemManage_Handler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0003d8 00000010 T main
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W WDT_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:2000c000 A __top_RamAHB16
+misProgramas/teclas_modular/out/teclas_modular.elf:1008a000 A __top_RamLoc40
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000182 00000002 W SVC_Handler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W GPIO7_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000ddc 0000003c T Chip_Clock_EnableOpts
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000b88 000000b8 T Chip_Clock_GetClockInputHz
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000c40 00000080 T Chip_Clock_CalcMainPLLValue
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001138 00000038 T SystemInit
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W SPIFI_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W QEI_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000150 T __bss_section_table
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001438 0000006a T gpioWrite
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000488 00000002 W _fini
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00088c 00000040 T Chip_ADC_Init
+misProgramas/teclas_modular/out/teclas_modular.elf:10000084 00000004 B g_pUsbApi
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000638 00000038 T Board_SetupMuxing
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000768 000000dc T Chip_UART_SetBaudFDR
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00118c 0000000c T tickRead
+misProgramas/teclas_modular/out/teclas_modular.elf:10000040 00000008 D tickRateMS
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W ETH_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:10000000 ? _end_uninit_RESERVED
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W CAN0_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:10000000 D _data
+misProgramas/teclas_modular/out/teclas_modular.elf:10000088 B _pvHeapStart
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000178 T __section_table_end
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001084 00000038 T Chip_SSP_Init
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W GINT0_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W DAC_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0005dc 00000024 T Board_Debug_Init
+misProgramas/teclas_modular/out/teclas_modular.elf:10000048 D _edata
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0010bc 00000020 T Chip_I2C_EventHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W M0SUB_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000318 0000001c T inicializar_tecla
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000eb0 00000158 T Chip_SetupCoreClock
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W GPIO0_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000000 00000040 T g_pfnVectors
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000e98 00000014 T SystemCoreClockUpdate
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W DMA_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W EVRT_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1b080000 A __top_MFlashB512
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00190c 00000002 W __aeabi_idiv0
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00017e 00000002 W BusFault_Handler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000e18 00000034 T Chip_Clock_Enable
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W UART3_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0015f0 0000001c T delayWrite
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W MCPWM_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W M0APP_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0014a2 00000068 T gpioRead
+misProgramas/teclas_modular/out/teclas_modular.elf:1a00153c 00000074 T boardInit
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000040 000000d4 T g_pfnVendorVectors
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W GINT1_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001198 00000018 T tickPowerSet
+misProgramas/teclas_modular/out/teclas_modular.elf:1a000d50 00000058 T Chip_Clock_SetBaseClock
+misProgramas/teclas_modular/out/teclas_modular.elf:1a001170 0000001c T cyclesCounterInit
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0001ba 00000002 W GPIO4_IRQHandler
+misProgramas/teclas_modular/out/teclas_modular.elf:1a0006dc 0000000c T Board_SystemInit
