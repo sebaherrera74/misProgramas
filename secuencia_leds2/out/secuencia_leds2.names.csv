@@ -1,0 +1,191 @@
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0004a0 00000044 t Board_LED_Init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0004e4 00000040 t Board_TEC_Init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000524 00000040 t Board_GPIO_Init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000564 00000030 t Board_ADC_Init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000594 00000038 t Board_SPI_Init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0005cc 00000024 t Board_I2C_Init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00198c 00000008 t GpioButtons
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001994 0000000c t GpioLeds
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0019a0 00000012 t GpioPorts
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0019b8 00000004 t InitClkStates
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0019bc 00000074 t pinmuxing
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0006fc 0000002c t Chip_UART_GetIndex
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001a30 00000008 t UART_BClock
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001a38 00000008 t UART_PClock
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000858 00000014 t Chip_ADC_GetClockIndex
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00086c 00000032 t getClkDiv
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000920 000000a0 t pll_calc_divs
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0009c0 0000010c t pll_get_frac
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000acc 0000004c t Chip_Clock_FindBaseClock
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000d40 00000022 t Chip_Clock_GetDivRate
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000048 00000008 b audio_usb_pll_freq
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001a4c 0000006c t periph_to_base
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001ab8 00000048 t InitClkStates
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00101c 00000014 t Chip_SSP_GetClockIndex
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001030 00000018 t Chip_SSP_GetPeriphClockIndex
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000000 00000038 d i2c
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000038 00000004 d ClockSpeed
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000050 00000004 b callBackFuncParams
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000058 00000008 b tickCounter
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000060 00000004 b tickHookFunction
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00126c 00000034 t gpioObtainPinInit
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000064 00000004 b g_hUsb
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001bec t __init_array_end
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001be8 b __preinit_array_end
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001be8 t __init_array_start
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001be8 b __preinit_array_start
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000b64 0000001c T Chip_Clock_GetDividerSource
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W TIMER2_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000184 00000002 W DebugMon_Handler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W RIT_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a080000 A __top_MFlashA512
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W ADCHS_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000114 T __section_table_start
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W FLASH_EEPROM_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W I2C0_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000644 00000008 T __stdio_init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0015d0 0000003e T delayRead
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00017a 00000002 W HardFault_Handler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000000 A __vectors_start__
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000912 0000000c T Chip_ADC_SetResolution
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001240 0000002c T SysTick_Handler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000410 00000002 W initialise_monitor_handles
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W SDIO_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W ATIMER_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000186 00000002 W PendSV_Handler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000178 00000002 W NMI_Handler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001bf4 R __exidx_end
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000150 T __data_section_table_end
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W I2C1_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W UART1_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W GPIO5_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W CAN1_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:53ff747a A __valid_user_code_checksum
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001bf4 R _etext
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W USB1_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W I2S0_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W TIMER3_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000de2 0000000c T Chip_Clock_GetBaseClocktHz
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W UART0_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001a8 00000012 T bss_init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W SGPIO_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00162c T __aeabi_uldivmod
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000070 ? _noinit
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000068 00000004 B SystemCoreClock
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000728 00000054 T Chip_UART_Init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W ADC0_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000180 00000002 W UsageFault_Handler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000e60 0000004c T Chip_Clock_GetRate
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W GPIO6_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000684 0000006c T Board_SetupClocking
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:20008000 A __top_RamAHB32
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00165c 000002d0 T __udivmoddi4
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001988 00000004 T ExtRateIn
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W IntDefaultHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000300 T __CRP_WORD_END__
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W GPIO1_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W SSP0_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001bec R __exidx_start
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0002fc 00000004 T CRP_WORD
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001930 00000048 T __libc_init_array
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W ADC1_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000614 00000030 T Board_Init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00049e 00000002 W _init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000114 T __data_section_table
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W RTC_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000070 B _ebss
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W TIMER0_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000414 00000088 T Reset_Handler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0011c4 0000007c T tickInit
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:20010000 A __top_RamAHB_ETB16
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W SPI_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001114 00000038 T Chip_I2C_SetClockRate
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W LCD_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000b18 0000004c T Chip_Clock_EnableCrystal
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10008000 A __top_RamLoc32
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00018a 0000001e T data_init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W TIMER1_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0010f0 00000024 T Chip_I2C_Init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W UART2_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000cd4 0000006c T Chip_Clock_GetMainPLLHz
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001b00 000000e6 T gpioPinsInit
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001048 00000012 T Chip_SSP_SetClockRate
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W GPIO2_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000dbc 00000026 T Chip_Clock_GetBaseClock
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000048 B _bss
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0008e0 00000032 T Chip_ADC_SetSampleRate
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0015b0 00000020 T delayInit
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W I2S1_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00105a 0000003e T Chip_SSP_SetBitRate
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000ec0 00000002 T Chip_GPIO_Init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0019b4 00000004 T OscRateIn
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000070 ? _end_noinit
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10008000 A _vStackTop
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W SSP1_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000178 T __bss_section_table_end
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0012a0 000001ac T gpioInit
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00192c 00000002 W __aeabi_ldiv0
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001520 0000001c T USB0_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W GPIO3_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W SCT_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000b80 0000001c T Chip_Clock_GetDividerDivisor
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0002fc T __CRP_WORD_START__
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001978 00000010 T memset
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00017c 00000002 W MemManage_Handler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000300 00000110 T main
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W WDT_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:2000c000 A __top_RamAHB16
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1008a000 A __top_RamLoc40
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000182 00000002 W SVC_Handler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W GPIO7_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000df0 0000003c T Chip_Clock_EnableOpts
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000b9c 000000b8 T Chip_Clock_GetClockInputHz
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000c54 00000080 T Chip_Clock_CalcMainPLLValue
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00114c 00000038 T SystemInit
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W SPIFI_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W QEI_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000150 T __bss_section_table
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00144c 0000006a T gpioWrite
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00049c 00000002 W _fini
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0008a0 00000040 T Chip_ADC_Init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1000006c 00000004 B g_pUsbApi
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00064c 00000038 T Board_SetupMuxing
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00077c 000000dc T Chip_UART_SetBaudFDR
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0011a0 0000000c T tickRead
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000040 00000008 D tickRateMS
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W ETH_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000000 ? _end_uninit_RESERVED
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W CAN0_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000000 D _data
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000070 B _pvHeapStart
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000178 T __section_table_end
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001098 00000038 T Chip_SSP_Init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W GINT0_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W DAC_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0005f0 00000024 T Board_Debug_Init
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:10000048 D _edata
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0010d0 00000020 T Chip_I2C_EventHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W M0SUB_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000ec4 00000158 T Chip_SetupCoreClock
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W GPIO0_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000000 00000040 T g_pfnVectors
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000eac 00000014 T SystemCoreClockUpdate
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W DMA_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W EVRT_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1b080000 A __top_MFlashB512
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00192c 00000002 W __aeabi_idiv0
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00017e 00000002 W BusFault_Handler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000e2c 00000034 T Chip_Clock_Enable
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W UART3_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001610 0000001c T delayWrite
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W MCPWM_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W M0APP_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0014b6 00000068 T gpioRead
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a00153c 00000074 T boardInit
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000040 000000d4 T g_pfnVendorVectors
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W GINT1_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0011ac 00000018 T tickPowerSet
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a000d64 00000058 T Chip_Clock_SetBaseClock
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a001184 0000001c T cyclesCounterInit
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0001ba 00000002 W GPIO4_IRQHandler
+misProgramas/secuencia_leds2/out/secuencia_leds2.elf:1a0006f0 0000000c T Board_SystemInit

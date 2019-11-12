@@ -16573,50 +16573,50 @@ OUTPUT(misProgramas/pulsador/out/pulsador.elf elf32-littlearm)
  .debug_line    0x000000000000cefe      0x97b misProgramas/pulsador/out/libs/sapi/sapi_v0.5.2/board/src/sapi_board.o
  .debug_line    0x000000000000d879      0xb4d misProgramas/pulsador/out/libs/sapi/sapi_v0.5.2/abstract_modules/src/sapi_delay.o
 
-.debug_str      0x0000000000000000    0x277b0
+.debug_str      0x0000000000000000    0x277d8
  .debug_str     0x0000000000000000    0x234ee misProgramas/pulsador/out/misProgramas/pulsador/src/main.o
                                       0x238d8 (size before relaxing)
- .debug_str     0x00000000000234ee      0x212 misProgramas/pulsador/out/libs/cmsis_core//src/armv7m_startup.o
+ .debug_str     0x00000000000234ee      0x23a misProgramas/pulsador/out/libs/cmsis_core//src/armv7m_startup.o
                                        0x3015 (size before relaxing)
- .debug_str     0x0000000000023700      0x894 misProgramas/pulsador/out/libs/sys_newlib//src/system.o
+ .debug_str     0x0000000000023728      0x894 misProgramas/pulsador/out/libs/sys_newlib//src/system.o
                                        0x6cc8 (size before relaxing)
- .debug_str     0x0000000000023f94      0x9bd misProgramas/pulsador/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+ .debug_str     0x0000000000023fbc      0x9bd misProgramas/pulsador/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
                                       0x1b73b (size before relaxing)
- .debug_str     0x0000000000024951      0x352 misProgramas/pulsador/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_str     0x0000000000024979      0x352 misProgramas/pulsador/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
                                       0x1b0b6 (size before relaxing)
- .debug_str     0x0000000000024ca3      0x3cf misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_str     0x0000000000024ccb      0x3cf misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
                                       0x1775c (size before relaxing)
- .debug_str     0x0000000000025072      0x14a misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+ .debug_str     0x000000000002509a      0x14a misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
                                       0x170f7 (size before relaxing)
- .debug_str     0x00000000000251bc      0x5d7 misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_str     0x00000000000251e4      0x5d7 misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
                                       0x17b1f (size before relaxing)
- .debug_str     0x0000000000025793       0x76 misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_str     0x00000000000257bb       0x76 misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
                                       0x1764c (size before relaxing)
- .debug_str     0x0000000000025809       0x42 misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_str     0x0000000000025831       0x42 misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
                                       0x168ae (size before relaxing)
- .debug_str     0x000000000002584b       0xbc misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_str     0x0000000000025873       0xbc misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
                                       0x175ad (size before relaxing)
- .debug_str     0x0000000000025907      0x3e1 misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+ .debug_str     0x000000000002592f      0x3e1 misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
                                       0x172ed (size before relaxing)
- .debug_str     0x0000000000025ce8      0x584 misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_str     0x0000000000025d10      0x584 misProgramas/pulsador/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
                                       0x1788e (size before relaxing)
- .debug_str     0x000000000002626c       0x43 misProgramas/pulsador/out/libs/lpc_open/lpc_startup/src/crp.o
+ .debug_str     0x0000000000026294       0x43 misProgramas/pulsador/out/libs/lpc_open/lpc_startup/src/crp.o
                                        0x2e15 (size before relaxing)
- .debug_str     0x00000000000262af       0xb9 misProgramas/pulsador/out/libs/lpc_open/lpc_startup/src/sysinit.o
+ .debug_str     0x00000000000262d7       0xb9 misProgramas/pulsador/out/libs/lpc_open/lpc_startup/src/sysinit.o
                                       0x1a388 (size before relaxing)
- .debug_str     0x0000000000026368       0x56 misProgramas/pulsador/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
+ .debug_str     0x0000000000026390       0x56 misProgramas/pulsador/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
                                        0x2e70 (size before relaxing)
- .debug_str     0x00000000000263be       0xc6 misProgramas/pulsador/out/libs/sapi/sapi_v0.5.2/soc/core/src/sapi_cyclesCounter.o
+ .debug_str     0x00000000000263e6       0xc6 misProgramas/pulsador/out/libs/sapi/sapi_v0.5.2/soc/core/src/sapi_cyclesCounter.o
                                       0x1b0aa (size before relaxing)
- .debug_str     0x0000000000026484      0x48f misProgramas/pulsador/out/libs/sapi/sapi_v0.5.2/soc/peripherals/src/sapi_tick.o
+ .debug_str     0x00000000000264ac      0x48f misProgramas/pulsador/out/libs/sapi/sapi_v0.5.2/soc/peripherals/src/sapi_tick.o
                                       0x1b586 (size before relaxing)
- .debug_str     0x0000000000026913      0x18c misProgramas/pulsador/out/libs/sapi/sapi_v0.5.2/soc/peripherals/src/sapi_gpio.o
+ .debug_str     0x000000000002693b      0x18c misProgramas/pulsador/out/libs/sapi/sapi_v0.5.2/soc/peripherals/src/sapi_gpio.o
                                       0x1b3b5 (size before relaxing)
- .debug_str     0x0000000000026a9f      0x771 misProgramas/pulsador/out/libs/sapi/sapi_v0.5.2/soc/peripherals/usb/device/src/sapi_usb_device.o
+ .debug_str     0x0000000000026ac7      0x771 misProgramas/pulsador/out/libs/sapi/sapi_v0.5.2/soc/peripherals/usb/device/src/sapi_usb_device.o
                                       0x21236 (size before relaxing)
- .debug_str     0x0000000000027210       0x2d misProgramas/pulsador/out/libs/sapi/sapi_v0.5.2/board/src/sapi_board.o
+ .debug_str     0x0000000000027238       0x2d misProgramas/pulsador/out/libs/sapi/sapi_v0.5.2/board/src/sapi_board.o
                                       0x1a8d7 (size before relaxing)
- .debug_str     0x000000000002723d      0x573 misProgramas/pulsador/out/libs/sapi/sapi_v0.5.2/abstract_modules/src/sapi_delay.o
+ .debug_str     0x0000000000027265      0x573 misProgramas/pulsador/out/libs/sapi/sapi_v0.5.2/abstract_modules/src/sapi_delay.o
                                       0x1ac48 (size before relaxing)
 
 .comment        0x0000000000000000       0x68

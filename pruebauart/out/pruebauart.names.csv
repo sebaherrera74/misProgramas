@@ -1,0 +1,253 @@
+misProgramas/pruebauart/out/pruebauart.elf:10000888 00000004 b heap_end.5864
+misProgramas/pruebauart/out/pruebauart.elf:1a000480 00000044 t Board_LED_Init
+misProgramas/pruebauart/out/pruebauart.elf:1a0004c4 00000040 t Board_TEC_Init
+misProgramas/pruebauart/out/pruebauart.elf:1a000504 00000040 t Board_GPIO_Init
+misProgramas/pruebauart/out/pruebauart.elf:1a000544 00000030 t Board_ADC_Init
+misProgramas/pruebauart/out/pruebauart.elf:1a000574 00000038 t Board_SPI_Init
+misProgramas/pruebauart/out/pruebauart.elf:1a0005ac 00000024 t Board_I2C_Init
+misProgramas/pruebauart/out/pruebauart.elf:1a0032d0 00000008 t GpioButtons
+misProgramas/pruebauart/out/pruebauart.elf:1a0032d8 0000000c t GpioLeds
+misProgramas/pruebauart/out/pruebauart.elf:1a0032e4 00000012 t GpioPorts
+misProgramas/pruebauart/out/pruebauart.elf:1a0032fc 00000004 t InitClkStates
+misProgramas/pruebauart/out/pruebauart.elf:1a003300 00000074 t pinmuxing
+misProgramas/pruebauart/out/pruebauart.elf:1a000720 0000002c t Chip_UART_GetIndex
+misProgramas/pruebauart/out/pruebauart.elf:1a003374 00000008 t UART_BClock
+misProgramas/pruebauart/out/pruebauart.elf:1a00337c 00000008 t UART_PClock
+misProgramas/pruebauart/out/pruebauart.elf:1a00087c 00000014 t Chip_ADC_GetClockIndex
+misProgramas/pruebauart/out/pruebauart.elf:1a000890 00000032 t getClkDiv
+misProgramas/pruebauart/out/pruebauart.elf:1a000944 000000a0 t pll_calc_divs
+misProgramas/pruebauart/out/pruebauart.elf:1a0009e4 0000010c t pll_get_frac
+misProgramas/pruebauart/out/pruebauart.elf:1a000af0 0000004c t Chip_Clock_FindBaseClock
+misProgramas/pruebauart/out/pruebauart.elf:1a000d64 00000022 t Chip_Clock_GetDivRate
+misProgramas/pruebauart/out/pruebauart.elf:1000088c 00000008 b audio_usb_pll_freq
+misProgramas/pruebauart/out/pruebauart.elf:1a003390 0000006c t periph_to_base
+misProgramas/pruebauart/out/pruebauart.elf:1a0033fc 00000048 t InitClkStates
+misProgramas/pruebauart/out/pruebauart.elf:1a001040 00000014 t Chip_SSP_GetClockIndex
+misProgramas/pruebauart/out/pruebauart.elf:1a001054 00000018 t Chip_SSP_GetPeriphClockIndex
+misProgramas/pruebauart/out/pruebauart.elf:10000000 00000038 d i2c
+misProgramas/pruebauart/out/pruebauart.elf:10000038 00000004 d ClockSpeed
+misProgramas/pruebauart/out/pruebauart.elf:10000894 00000004 b callBackFuncParams
+misProgramas/pruebauart/out/pruebauart.elf:10000898 00000008 b tickCounter
+misProgramas/pruebauart/out/pruebauart.elf:100008a0 00000004 b tickHookFunction
+misProgramas/pruebauart/out/pruebauart.elf:1a001290 00000034 t gpioObtainPinInit
+misProgramas/pruebauart/out/pruebauart.elf:100008a4 00000004 b g_hUsb
+misProgramas/pruebauart/out/pruebauart.elf:1a001cdc 00000050 t std
+misProgramas/pruebauart/out/pruebauart.elf:10000050 00000428 d impure_data
+misProgramas/pruebauart/out/pruebauart.elf:1a003534 t __init_array_end
+misProgramas/pruebauart/out/pruebauart.elf:1a003530 b __preinit_array_end
+misProgramas/pruebauart/out/pruebauart.elf:1a003530 t __init_array_start
+misProgramas/pruebauart/out/pruebauart.elf:1a003530 b __preinit_array_start
+misProgramas/pruebauart/out/pruebauart.elf:1a000b88 0000001c T Chip_Clock_GetDividerSource
+misProgramas/pruebauart/out/pruebauart.elf:1a0003cc 00000012 T _isatty_r
+misProgramas/pruebauart/out/pruebauart.elf:1a001b40 0000009c T _puts_r
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W TIMER2_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0003de 0000000a T _lseek_r
+misProgramas/pruebauart/out/pruebauart.elf:1a000184 00000002 W DebugMon_Handler
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W RIT_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a080000 A __top_MFlashA512
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W ADCHS_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a000114 T __section_table_start
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W FLASH_EEPROM_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W I2C0_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a000666 00000008 T __stdio_init
+misProgramas/pruebauart/out/pruebauart.elf:100008e4 00000001 B __lock___atexit_recursive_mutex
+misProgramas/pruebauart/out/pruebauart.elf:1a002bd8 00000020 T __sseek
+misProgramas/pruebauart/out/pruebauart.elf:1a001d38 00000054 T __sinit
+misProgramas/pruebauart/out/pruebauart.elf:1a00017a 00000002 W HardFault_Handler
+misProgramas/pruebauart/out/pruebauart.elf:1a000000 A __vectors_start__
+misProgramas/pruebauart/out/pruebauart.elf:1a000936 0000000c T Chip_ADC_SetResolution
+misProgramas/pruebauart/out/pruebauart.elf:1a0027fc 0000000c T __malloc_unlock
+misProgramas/pruebauart/out/pruebauart.elf:1a001264 0000002c T SysTick_Handler
+misProgramas/pruebauart/out/pruebauart.elf:100008e8 00000001 B __lock___arc4random_mutex
+misProgramas/pruebauart/out/pruebauart.elf:1a000328 00000002 W initialise_monitor_handles
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W SDIO_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a000608 0000001c T Board_UARTGetChar
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W ATIMER_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a002720 000000ce T memmove
+misProgramas/pruebauart/out/pruebauart.elf:1a000186 00000002 W PendSV_Handler
+misProgramas/pruebauart/out/pruebauart.elf:1a000178 00000002 W NMI_Handler
+misProgramas/pruebauart/out/pruebauart.elf:1a00353c R __exidx_end
+misProgramas/pruebauart/out/pruebauart.elf:1a000150 T __data_section_table_end
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W I2C1_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W UART1_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W GPIO5_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W CAN1_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0003c2 0000000a T _fstat_r
+misProgramas/pruebauart/out/pruebauart.elf:53ff7562 A __valid_user_code_checksum
+misProgramas/pruebauart/out/pruebauart.elf:1a00353c R _etext
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W USB1_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W I2S0_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W TIMER3_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a000e06 0000000c T Chip_Clock_GetBaseClocktHz
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W UART0_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0001a8 00000012 T bss_init
+misProgramas/pruebauart/out/pruebauart.elf:1a00196c 00000134 T memcpy
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W SGPIO_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a001d2c 0000000c T _cleanup_r
+misProgramas/pruebauart/out/pruebauart.elf:1a001620 T __aeabi_uldivmod
+misProgramas/pruebauart/out/pruebauart.elf:10000908 ? _noinit
+misProgramas/pruebauart/out/pruebauart.elf:1a001bdc 00000010 T puts
+misProgramas/pruebauart/out/pruebauart.elf:100008dc 00000004 B SystemCoreClock
+misProgramas/pruebauart/out/pruebauart.elf:1a00074c 00000054 T Chip_UART_Init
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W ADC0_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a000180 00000002 W UsageFault_Handler
+misProgramas/pruebauart/out/pruebauart.elf:1a000e84 0000004c T Chip_Clock_GetRate
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W GPIO6_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:100008d8 00000004 B __malloc_top_pad
+misProgramas/pruebauart/out/pruebauart.elf:1a0006a8 0000006c T Board_SetupClocking
+misProgramas/pruebauart/out/pruebauart.elf:20008000 A __top_RamAHB32
+misProgramas/pruebauart/out/pruebauart.elf:1a001da4 00000308 T __sfvwrite_r
+misProgramas/pruebauart/out/pruebauart.elf:1a001650 000002d0 T __udivmoddi4
+misProgramas/pruebauart/out/pruebauart.elf:1a000460 00000020 T _sbrk_r
+misProgramas/pruebauart/out/pruebauart.elf:1a0032cc 00000004 T ExtRateIn
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W IntDefaultHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a000300 T __CRP_WORD_END__
+misProgramas/pruebauart/out/pruebauart.elf:1a0003e8 0000004e T _read_r
+misProgramas/pruebauart/out/pruebauart.elf:1a002cd0 000000ce T _fclose_r
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W GPIO1_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:100008d0 00000004 B __malloc_max_sbrked_mem
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W SSP0_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a003534 R __exidx_start
+misProgramas/pruebauart/out/pruebauart.elf:100008ec 00000001 B __lock___env_recursive_mutex
+misProgramas/pruebauart/out/pruebauart.elf:1a0002fc 00000004 T CRP_WORD
+misProgramas/pruebauart/out/pruebauart.elf:100008f0 00000001 B __lock___sinit_recursive_mutex
+misProgramas/pruebauart/out/pruebauart.elf:1a002808 0000036c T _realloc_r
+misProgramas/pruebauart/out/pruebauart.elf:1a001924 00000048 T __libc_init_array
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W ADC1_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a000624 00000030 T Board_Init
+misProgramas/pruebauart/out/pruebauart.elf:1a0003b6 00000002 W _init
+misProgramas/pruebauart/out/pruebauart.elf:1a000114 T __data_section_table
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W RTC_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:10000908 B _ebss
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W TIMER0_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a00032c 00000088 T Reset_Handler
+misProgramas/pruebauart/out/pruebauart.elf:1a0011e8 0000007c T tickInit
+misProgramas/pruebauart/out/pruebauart.elf:20010000 A __top_RamAHB_ETB16
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W SPI_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a001138 00000038 T Chip_I2C_SetClockRate
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W LCD_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a000b3c 0000004c T Chip_Clock_EnableCrystal
+misProgramas/pruebauart/out/pruebauart.elf:100008f4 00000001 B __lock___malloc_recursive_mutex
+misProgramas/pruebauart/out/pruebauart.elf:10008000 A __top_RamLoc32
+misProgramas/pruebauart/out/pruebauart.elf:1a00018a 0000001e T data_init
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W TIMER1_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a001114 00000024 T Chip_I2C_Init
+misProgramas/pruebauart/out/pruebauart.elf:1a00210c 00000002 T __retarget_lock_release_recursive
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W UART2_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a000cf8 0000006c T Chip_Clock_GetMainPLLHz
+misProgramas/pruebauart/out/pruebauart.elf:1a003444 000000e6 T gpioPinsInit
+misProgramas/pruebauart/out/pruebauart.elf:1a00106c 00000012 T Chip_SSP_SetClockRate
+misProgramas/pruebauart/out/pruebauart.elf:1a001542 00000016 T gpioToggle
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W GPIO2_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a001d8c 0000000c T __sfp_lock_acquire
+misProgramas/pruebauart/out/pruebauart.elf:1a002680 T memchr
+misProgramas/pruebauart/out/pruebauart.elf:1a002fe8 000001ec T _free_r
+misProgramas/pruebauart/out/pruebauart.elf:1a000de0 00000026 T Chip_Clock_GetBaseClock
+misProgramas/pruebauart/out/pruebauart.elf:10000888 B _bss
+misProgramas/pruebauart/out/pruebauart.elf:1a000904 00000032 T Chip_ADC_SetSampleRate
+misProgramas/pruebauart/out/pruebauart.elf:10000880 00000004 D __malloc_sbrk_base
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W I2S1_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a00107e 0000003e T Chip_SSP_SetBitRate
+misProgramas/pruebauart/out/pruebauart.elf:1a000ee4 00000002 T Chip_GPIO_Init
+misProgramas/pruebauart/out/pruebauart.elf:1a0032f8 00000004 T OscRateIn
+misProgramas/pruebauart/out/pruebauart.elf:10000908 ? _end_noinit
+misProgramas/pruebauart/out/pruebauart.elf:10008000 A _vStackTop
+misProgramas/pruebauart/out/pruebauart.elf:100008a8 00000028 B __malloc_current_mallinfo
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W SSP1_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a000178 T __bss_section_table_end
+misProgramas/pruebauart/out/pruebauart.elf:1a0003b8 0000000a T _close_r
+misProgramas/pruebauart/out/pruebauart.elf:1a0012c4 000001ac T gpioInit
+misProgramas/pruebauart/out/pruebauart.elf:1a002104 00000002 T __retarget_lock_close_recursive
+misProgramas/pruebauart/out/pruebauart.elf:1a002c00 000000d0 T __swsetup_r
+misProgramas/pruebauart/out/pruebauart.elf:1a001920 00000002 W __aeabi_ldiv0
+misProgramas/pruebauart/out/pruebauart.elf:10000478 00000408 D __malloc_av_
+misProgramas/pruebauart/out/pruebauart.elf:1a002b74 00000022 T __sread
+misProgramas/pruebauart/out/pruebauart.elf:1a001558 0000001c T USB0_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W GPIO3_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0027f0 0000000c T __malloc_lock
+misProgramas/pruebauart/out/pruebauart.elf:1a0005f4 00000014 T Board_UARTPutChar
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W SCT_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a002eec 0000005a T _fflush_r
+misProgramas/pruebauart/out/pruebauart.elf:1a000ba4 0000001c T Chip_Clock_GetDividerDivisor
+misProgramas/pruebauart/out/pruebauart.elf:1a0002fc T __CRP_WORD_START__
+misProgramas/pruebauart/out/pruebauart.elf:1a002108 00000002 T __retarget_lock_acquire_recursive
+misProgramas/pruebauart/out/pruebauart.elf:1a001aa0 000000a0 T memset
+misProgramas/pruebauart/out/pruebauart.elf:1a00017c 00000002 W MemManage_Handler
+misProgramas/pruebauart/out/pruebauart.elf:1a000300 00000028 T main
+misProgramas/pruebauart/out/pruebauart.elf:100008d4 00000004 B __malloc_max_total_mem
+misProgramas/pruebauart/out/pruebauart.elf:1a002100 00000002 T __retarget_lock_init_recursive
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W WDT_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:2000c000 A __top_RamAHB16
+misProgramas/pruebauart/out/pruebauart.elf:1008a000 A __top_RamLoc40
+misProgramas/pruebauart/out/pruebauart.elf:1a000182 00000002 W SVC_Handler
+misProgramas/pruebauart/out/pruebauart.elf:1a002bf8 00000008 T __sclose
+misProgramas/pruebauart/out/pruebauart.elf:1a002110 00000570 T _malloc_r
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W GPIO7_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a000e14 0000003c T Chip_Clock_EnableOpts
+misProgramas/pruebauart/out/pruebauart.elf:1a00065e 00000008 T __stdio_getchar
+misProgramas/pruebauart/out/pruebauart.elf:1a002f48 000000a0 T _malloc_trim_r
+misProgramas/pruebauart/out/pruebauart.elf:1a000bc0 000000b8 T Chip_Clock_GetClockInputHz
+misProgramas/pruebauart/out/pruebauart.elf:1a000c78 00000080 T Chip_Clock_CalcMainPLLValue
+misProgramas/pruebauart/out/pruebauart.elf:1a001170 00000038 T SystemInit
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W SPIFI_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0015e8 00000038 T delay
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W QEI_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a000150 T __bss_section_table
+misProgramas/pruebauart/out/pruebauart.elf:1a001470 0000006a T gpioWrite
+misProgramas/pruebauart/out/pruebauart.elf:1a0003b4 00000002 W _fini
+misProgramas/pruebauart/out/pruebauart.elf:1a0008c4 00000040 T Chip_ADC_Init
+misProgramas/pruebauart/out/pruebauart.elf:100008e0 00000004 B g_pUsbApi
+misProgramas/pruebauart/out/pruebauart.elf:1a000670 00000038 T Board_SetupMuxing
+misProgramas/pruebauart/out/pruebauart.elf:1a0007a0 000000dc T Chip_UART_SetBaudFDR
+misProgramas/pruebauart/out/pruebauart.elf:1a0011c4 0000000c T tickRead
+misProgramas/pruebauart/out/pruebauart.elf:1a000436 00000028 T _write_r
+misProgramas/pruebauart/out/pruebauart.elf:10000040 00000008 D tickRateMS
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W ETH_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:10000048 00000004 D _impure_ptr
+misProgramas/pruebauart/out/pruebauart.elf:1a002da0 0000014a T __sflush_r
+misProgramas/pruebauart/out/pruebauart.elf:10000000 ? _end_uninit_RESERVED
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W CAN0_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:10000000 D _data
+misProgramas/pruebauart/out/pruebauart.elf:10000908 B _pvHeapStart
+misProgramas/pruebauart/out/pruebauart.elf:1a000178 T __section_table_end
+misProgramas/pruebauart/out/pruebauart.elf:1a0010bc 00000038 T Chip_SSP_Init
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W GINT0_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0031d4 0000005c T __swhatbuf_r
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W DAC_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0005d0 00000024 T Board_Debug_Init
+misProgramas/pruebauart/out/pruebauart.elf:1a000654 0000000a T __stdio_putchar
+misProgramas/pruebauart/out/pruebauart.elf:10000888 D _edata
+misProgramas/pruebauart/out/pruebauart.elf:1a0010f4 00000020 T Chip_I2C_EventHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W M0SUB_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:100008f8 00000001 B __lock___at_quick_exit_mutex
+misProgramas/pruebauart/out/pruebauart.elf:1a000ee8 00000158 T Chip_SetupCoreClock
+misProgramas/pruebauart/out/pruebauart.elf:1a002b98 0000003e T __swrite
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W GPIO0_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:10000884 00000004 D __malloc_trim_threshold
+misProgramas/pruebauart/out/pruebauart.elf:1a000000 00000040 T g_pfnVectors
+misProgramas/pruebauart/out/pruebauart.elf:1a0020ac 00000052 T _fwalk_reent
+misProgramas/pruebauart/out/pruebauart.elf:1a000ed0 00000014 T SystemCoreClockUpdate
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W DMA_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W EVRT_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1b080000 A __top_MFlashB512
+misProgramas/pruebauart/out/pruebauart.elf:1a001d98 0000000c T __sfp_lock_release
+misProgramas/pruebauart/out/pruebauart.elf:1a001920 00000002 W __aeabi_idiv0
+misProgramas/pruebauart/out/pruebauart.elf:1a00017e 00000002 W BusFault_Handler
+misProgramas/pruebauart/out/pruebauart.elf:100008fc 00000001 B __lock___dd_hash_mutex
+misProgramas/pruebauart/out/pruebauart.elf:1a003230 00000094 T __smakebuf_r
+misProgramas/pruebauart/out/pruebauart.elf:10000900 00000001 B __lock___tz_mutex
+misProgramas/pruebauart/out/pruebauart.elf:1a001c00 000000dc T strlen
+misProgramas/pruebauart/out/pruebauart.elf:1a000e50 00000034 T Chip_Clock_Enable
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W UART3_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W MCPWM_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W M0APP_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0014da 00000068 T gpioRead
+misProgramas/pruebauart/out/pruebauart.elf:1a001574 00000074 T boardInit
+misProgramas/pruebauart/out/pruebauart.elf:1a000040 000000d4 T g_pfnVendorVectors
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W GINT1_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:1a0011d0 00000018 T tickPowerSet
+misProgramas/pruebauart/out/pruebauart.elf:1a000d88 00000058 T Chip_Clock_SetBaseClock
+misProgramas/pruebauart/out/pruebauart.elf:1a0011a8 0000001c T cyclesCounterInit
+misProgramas/pruebauart/out/pruebauart.elf:1a0001ba 00000002 W GPIO4_IRQHandler
+misProgramas/pruebauart/out/pruebauart.elf:10000904 00000001 B __lock___sfp_recursive_mutex
+misProgramas/pruebauart/out/pruebauart.elf:1a000714 0000000c T Board_SystemInit

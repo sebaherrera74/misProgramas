@@ -1,0 +1,201 @@
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000048 00000001 b cont.13850
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000049 00000001 b cont.13854
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1000004a 00000001 b contFalling.13866
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1000004b 00000001 b contRising.13867
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1000004c 00000001 b flagFalling.13864
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1000004d 00000001 b flagRising.13865
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a00055c 00000044 t Board_LED_Init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0005a0 00000040 t Board_TEC_Init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0005e0 00000040 t Board_GPIO_Init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000620 00000030 t Board_ADC_Init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000650 00000038 t Board_SPI_Init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000688 00000024 t Board_I2C_Init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001a04 00000008 t GpioButtons
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001a0c 0000000c t GpioLeds
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001a18 00000012 t GpioPorts
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001a30 00000004 t InitClkStates
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001a34 00000074 t pinmuxing
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0007b8 0000002c t Chip_UART_GetIndex
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001aa8 00000008 t UART_BClock
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001ab0 00000008 t UART_PClock
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000914 00000014 t Chip_ADC_GetClockIndex
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000928 00000032 t getClkDiv
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0009dc 000000a0 t pll_calc_divs
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000a7c 0000010c t pll_get_frac
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000b88 0000004c t Chip_Clock_FindBaseClock
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000dfc 00000022 t Chip_Clock_GetDivRate
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000050 00000008 b audio_usb_pll_freq
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001ac4 0000006c t periph_to_base
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001b30 00000048 t InitClkStates
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0010d8 00000014 t Chip_SSP_GetClockIndex
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0010ec 00000018 t Chip_SSP_GetPeriphClockIndex
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000000 00000038 d i2c
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000038 00000004 d ClockSpeed
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000058 00000004 b callBackFuncParams
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000060 00000008 b tickCounter
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000068 00000004 b tickHookFunction
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001328 00000034 t gpioObtainPinInit
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1000006c 00000004 b g_hUsb
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001c64 t __init_array_end
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001c60 b __preinit_array_end
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001c60 t __init_array_start
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001c60 b __preinit_array_start
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000c20 0000001c T Chip_Clock_GetDividerSource
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a00034c 0000004c T buttonReleased
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W TIMER2_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000184 00000002 W DebugMon_Handler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W RIT_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a080000 A __top_MFlashA512
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W ADCHS_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000114 T __section_table_start
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W FLASH_EEPROM_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W I2C0_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000700 00000008 T __stdio_init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a00017a 00000002 W HardFault_Handler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000000 A __vectors_start__
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0009ce 0000000c T Chip_ADC_SetResolution
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0012fc 0000002c T SysTick_Handler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0004ce 00000002 W initialise_monitor_handles
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W SDIO_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W ATIMER_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000186 00000002 W PendSV_Handler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000178 00000002 W NMI_Handler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001c6c R __exidx_end
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000150 T __data_section_table_end
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W I2C1_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W UART1_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W GPIO5_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W CAN1_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:53ff73be A __valid_user_code_checksum
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001c6c R _etext
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W USB1_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W I2S0_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W TIMER3_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000e9e 0000000c T Chip_Clock_GetBaseClocktHz
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W UART0_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001a8 00000012 T bss_init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W SGPIO_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0016a4 T __aeabi_uldivmod
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1000007c ? _noinit
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000074 00000004 B SystemCoreClock
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0007e4 00000054 T Chip_UART_Init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W ADC0_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000180 00000002 W UsageFault_Handler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000f1c 0000004c T Chip_Clock_GetRate
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W GPIO6_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000740 0000006c T Board_SetupClocking
+misProgramas/pulsador1.1/out/pulsador1.1.elf:20008000 A __top_RamAHB32
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0016d4 000002d0 T __udivmoddi4
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001a00 00000004 T ExtRateIn
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W IntDefaultHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000300 T __CRP_WORD_END__
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W GPIO1_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W SSP0_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001c64 R __exidx_start
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0002fc 00000004 T CRP_WORD
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0019a8 00000048 T __libc_init_array
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W ADC1_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0006d0 00000030 T Board_Init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a00055a 00000002 W _init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000114 T __data_section_table
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W RTC_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1000007c B _ebss
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W TIMER0_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0004d0 00000088 T Reset_Handler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001280 0000007c T tickInit
+misProgramas/pulsador1.1/out/pulsador1.1.elf:20010000 A __top_RamAHB_ETB16
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W SPI_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0011d0 00000038 T Chip_I2C_SetClockRate
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W LCD_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000bd4 0000004c T Chip_Clock_EnableCrystal
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10008000 A __top_RamLoc32
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a00018a 0000001e T data_init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W TIMER1_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0011ac 00000024 T Chip_I2C_Init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W UART2_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000d90 0000006c T Chip_Clock_GetMainPLLHz
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001b78 000000e6 T gpioPinsInit
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001104 00000012 T Chip_SSP_SetClockRate
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W GPIO2_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000e78 00000026 T Chip_Clock_GetBaseClock
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000048 B _bss
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000398 0000000c T fsmButtonError
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a00099c 00000032 T Chip_ADC_SetSampleRate
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W I2S1_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001116 0000003e T Chip_SSP_SetBitRate
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000f7c 00000002 T Chip_GPIO_Init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001a2c 00000004 T OscRateIn
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1000007c ? _end_noinit
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10008000 A _vStackTop
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W SSP1_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000178 T __bss_section_table_end
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000300 0000004c T buttonPressed
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a00135c 000001ac T gpioInit
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0019a4 00000002 W __aeabi_ldiv0
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0015dc 0000001c T USB0_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W GPIO3_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W SCT_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000070 00000001 B fsmButtonState
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000c3c 0000001c T Chip_Clock_GetDividerDivisor
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0002fc T __CRP_WORD_START__
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0019f0 00000010 T memset
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a00017c 00000002 W MemManage_Handler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0004b4 0000001a T main
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W WDT_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:2000c000 A __top_RamAHB16
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1008a000 A __top_RamLoc40
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000182 00000002 W SVC_Handler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W GPIO7_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000eac 0000003c T Chip_Clock_EnableOpts
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000c58 000000b8 T Chip_Clock_GetClockInputHz
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000d10 00000080 T Chip_Clock_CalcMainPLLValue
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0003b0 00000104 T fsmButtonUpdate
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001208 00000038 T SystemInit
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W SPIFI_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a00166c 00000038 T delay
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W QEI_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000150 T __bss_section_table
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001508 0000006a T gpioWrite
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000558 00000002 W _fini
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a00095c 00000040 T Chip_ADC_Init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000078 00000004 B g_pUsbApi
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000708 00000038 T Board_SetupMuxing
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000838 000000dc T Chip_UART_SetBaudFDR
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a00125c 0000000c T tickRead
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000040 00000008 D tickRateMS
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W ETH_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000000 ? _end_uninit_RESERVED
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W CAN0_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000000 D _data
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1000007c B _pvHeapStart
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000178 T __section_table_end
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001154 00000038 T Chip_SSP_Init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W GINT0_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W DAC_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0006ac 00000024 T Board_Debug_Init
+misProgramas/pulsador1.1/out/pulsador1.1.elf:10000048 D _edata
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a00118c 00000020 T Chip_I2C_EventHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W M0SUB_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000f80 00000158 T Chip_SetupCoreClock
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W GPIO0_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000000 00000040 T g_pfnVectors
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000f68 00000014 T SystemCoreClockUpdate
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W DMA_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W EVRT_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1b080000 A __top_MFlashB512
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0019a4 00000002 W __aeabi_idiv0
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a00017e 00000002 W BusFault_Handler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000ee8 00000034 T Chip_Clock_Enable
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W UART3_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W MCPWM_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W M0APP_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001572 00000068 T gpioRead
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0015f8 00000074 T boardInit
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000040 000000d4 T g_pfnVendorVectors
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0003a4 0000000c T fsmButtonInit
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W GINT1_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001268 00000018 T tickPowerSet
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a000e20 00000058 T Chip_Clock_SetBaseClock
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a001240 0000001c T cyclesCounterInit
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0001ba 00000002 W GPIO4_IRQHandler
+misProgramas/pulsador1.1/out/pulsador1.1.elf:1a0007ac 0000000c T Board_SystemInit

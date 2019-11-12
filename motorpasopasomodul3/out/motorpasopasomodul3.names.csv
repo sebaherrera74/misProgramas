@@ -1,0 +1,367 @@
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0003b4 0000000a t botonPresionado
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0003be 0000000a t botonLiberado
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a00 00000018 b delayTiempoEnsayo
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a18 00000018 b delayTiempoGiro
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a30 00000018 b delayTiempoGiroinverso
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a48 00000001 b estadoBobinas
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a49 00000001 b estadoProximo
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a50 00000004 b heap_end.5864
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000824 00000044 t Board_LED_Init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000868 00000040 t Board_TEC_Init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0008a8 00000040 t Board_GPIO_Init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0008e8 00000030 t Board_ADC_Init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000918 00000038 t Board_SPI_Init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000950 00000024 t Board_I2C_Init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007768 00000008 t GpioButtons
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007770 0000000c t GpioLeds
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00777c 00000012 t GpioPorts
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007794 00000004 t InitClkStates
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007798 00000074 t pinmuxing
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000ac4 0000002c t Chip_UART_GetIndex
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00780c 00000008 t UART_BClock
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007814 00000008 t UART_PClock
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000c20 00000014 t Chip_ADC_GetClockIndex
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000c34 00000032 t getClkDiv
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000dec 000000a0 t pll_calc_divs
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000e8c 0000010c t pll_get_frac
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000f98 0000004c t Chip_Clock_FindBaseClock
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00120c 00000022 t Chip_Clock_GetDivRate
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a54 00000008 b audio_usb_pll_freq
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007828 0000006c t periph_to_base
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007894 00000048 t InitClkStates
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00151c 00000014 t Chip_SSP_GetClockIndex
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001530 00000018 t Chip_SSP_GetPeriphClockIndex
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000000 00000038 d i2c
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000038 00000004 d ClockSpeed
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a5c 00000004 b callBackFuncParams
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a60 00000008 b tickCounter
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a68 00000004 b tickHookFunction
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001880 00000034 t gpioObtainPinInit
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a6c 00000004 b g_hUsb
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0046b4 00000084 t __sbprintf
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007a08 00000010 t blanks.8693
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007a18 00000010 t zeroes.8694
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a004808 00000124 t quorem
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00592c 00000050 t std
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007b28 0000000c t p05.7442
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0072d4 00000076 t __sprint_r.part.0
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000050 00000428 d impure_data
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007c4c t __init_array_end
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007c48 b __preinit_array_end
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007c48 t __init_array_start
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007c48 b __preinit_array_start
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0076cc 0000002c T __aeabi_dcmpun
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001030 0000001c T Chip_Clock_GetDividerSource
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000770 00000012 T _isatty_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0024c4 00000012 T __aeabi_dcmple
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W TIMER2_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a002400 0000007a T __cmpdf2
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000782 0000000a T _lseek_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000184 00000002 W DebugMon_Handler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W RIT_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000ccc 00000016 T Chip_ADC_DeInit
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a080000 A __top_MFlashA512
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a002400 0000007a T __eqdf2
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W ADCHS_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000114 T __section_table_start
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000ac8 00000018 B Tiempolectura
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W FLASH_EEPROM_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001f70 0000005a T __floatdidf
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W I2C0_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a002a20 00000028 T printf
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000a0a 00000008 T __stdio_init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000b04 00000001 B __lock___atexit_recursive_mutex
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00767c 00000034 T _wcrtomb_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001bf8 0000003e T delayRead
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007238 00000020 T __sseek
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a005988 00000054 T __sinit
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000610 0000001c T inicializar_lectura_analogica
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0075cc 000000b0 T __swbuf_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00017a 00000002 W HardFault_Handler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a4b 00000001 B estadolectura
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000000 A __vectors_start__
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000d94 0000000c T Chip_ADC_SetResolution
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0067dc 0000000c T __malloc_unlock
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0003e4 0000009c T actualizar_tecla
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001740 0000002c T SysTick_Handler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000b08 00000001 B __lock___arc4random_mutex
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0006cc 00000002 W initialise_monitor_handles
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W SDIO_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0009ac 0000001c T Board_UARTGetChar
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W ATIMER_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a006700 000000ce T memmove
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000186 00000002 W PendSV_Handler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000178 00000002 W NMI_Handler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0067e8 0000004c T _Balloc
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007c54 R __exidx_end
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000150 T __data_section_table_end
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a4c 00000002 B muestra
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W I2C1_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W UART1_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0023f0 0000008a T __gtdf2
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W GPIO5_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W CAN1_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000766 0000000a T _fstat_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:53ff71be A __valid_user_code_checksum
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007c54 R _etext
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00248c 00000010 T __aeabi_cdcmple
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W USB1_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0004e4 0000010c T actualizar_bobinas_MEF
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W I2S0_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W TIMER3_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0012ae 0000000c T Chip_Clock_GetBaseClocktHz
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W UART0_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001a8 00000012 T bss_init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00284c 00000134 T memcpy
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00247c 00000020 T __aeabi_cdrcmple
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W SGPIO_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00597c 0000000c T _cleanup_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001ef8 00000022 T __floatsidf
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0023f8 00000082 T __ltdf2
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a002500 T __aeabi_uldivmod
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000b28 ? _noinit
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000afc 00000004 B SystemCoreClock
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000af0 00000054 T Chip_UART_Init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W ADC0_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000c74 00000018 T readAdcVal
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007a60 000000c8 T __mprec_tens
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000180 00000002 W UsageFault_Handler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001360 0000004c T Chip_Clock_GetRate
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000ae0 00000018 B tiempoMuestra
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W GPIO6_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000aa0 00000004 B __malloc_top_pad
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000a4c 0000006c T Board_SetupClocking
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:20008000 A __top_RamAHB32
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001ed8 0000001e T __aeabi_ui2d
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a005fdc 00000008 T _localeconv_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a006974 00000012 T __i2b
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a005c80 00000308 T __sfvwrite_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a002530 000002d0 T __udivmoddi4
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001c54 T __aeabi_drsub
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000804 00000020 T _sbrk_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007764 00000004 T ExtRateIn
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W IntDefaultHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000300 T __CRP_WORD_END__
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00078c 0000004e T _read_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0024b0 00000012 T __aeabi_dcmplt
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0073c0 000000ce T _fclose_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W GPIO1_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a98 00000004 B __malloc_max_sbrked_mem
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001f1c 00000042 T __extendsfdf2
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a002220 000001d0 T __aeabi_ddiv
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W SSP0_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001c60 00000276 T __adddf3
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007c4c R __exidx_start
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000b0c 00000001 B __lock___env_recursive_mutex
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001fcc 00000254 T __aeabi_dmul
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0002fc 00000004 T CRP_WORD
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000c66 0000000e T setStartMode
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000b10 00000001 B __lock___sinit_recursive_mutex
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a006dfc 0000036c T _realloc_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a002804 00000048 T __libc_init_array
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007530 00000064 T _fputwc_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007a38 00000028 T __mprec_bigtens
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00176c 000000bc T adcInit
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001ed8 0000001e T __floatunsidf
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W ADC1_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a006c0c 00000038 T __mcmp
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0009c8 00000030 T Board_Init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00075a 00000002 W _init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000114 T __data_section_table
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W RTC_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000b28 B _ebss
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000da0 0000002a T Chip_ADC_EnableChannel
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W TIMER0_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0006d0 00000088 T Reset_Handler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0016c4 0000007c T tickInit
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:20010000 A __top_RamAHB_ETB16
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W SPI_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0068d4 00000040 T __hi0bits
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001614 00000038 T Chip_I2C_SetClockRate
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0076f8 0000004e T __fixdfsi
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W LCD_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000fe4 0000004c T Chip_Clock_EnableCrystal
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000b14 00000001 B __lock___malloc_recursive_mutex
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000ce2 00000008 T Chip_ADC_ReadValue
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10008000 A __top_RamLoc32
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001c60 00000276 T __aeabi_dadd
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00018a 0000001e T data_init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0023f8 00000082 T __ledf2
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000d42 00000020 T Chip_ADC_SetStartMode
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a006ab8 000000a0 T __pow5mult
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001f60 0000006a T __aeabi_ul2d
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W TIMER1_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0015f0 00000024 T Chip_I2C_Init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000ac0 00000001 B fin_tiempo
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a005ff0 00000002 T __retarget_lock_release_recursive
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W UART2_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0011a0 0000006c T Chip_Clock_GetMainPLLHz
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0078dc 000000e6 T gpioPinsInit
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001548 00000012 T Chip_SSP_SetClockRate
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0024ec 00000012 T __aeabi_dcmpgt
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001b32 00000016 T gpioToggle
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W GPIO2_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0059dc 0000000c T __sfp_lock_acquire
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a006660 T memchr
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a005a94 000001ec T _free_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001828 00000058 T adcRead
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001288 00000026 T Chip_Clock_GetBaseClock
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007594 0000000c T __locale_mb_cur_max
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0024d8 00000012 T __aeabi_dcmpge
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:100009f8 B _bss
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000cea 00000036 T Chip_ADC_ReadStatus
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000d62 00000032 T Chip_ADC_SetSampleRate
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001c5c 0000027a T __aeabi_dsub
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000880 00000004 D __malloc_sbrk_base
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001bd8 00000020 T delayInit
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001f60 0000006a T __floatundidf
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a006b58 000000b2 T __lshift
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W I2S1_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00155a 0000003e T Chip_SSP_SetBitRate
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0013c0 00000002 T Chip_GPIO_Init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007790 00000004 T OscRateIn
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a006988 00000130 T __multiply
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000b28 ? _end_noinit
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10008000 A _vStackTop
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007260 00000072 T strncpy
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a70 00000028 B __malloc_current_mallinfo
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a006d3c 000000be T __d2b
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W SSP1_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000178 T __bss_section_table_end
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00075c 0000000a T _close_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001ef8 00000022 T __aeabi_i2d
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0018b4 000001ac T gpioInit
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a005fe8 00000002 T __retarget_lock_close_recursive
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a004738 000000d0 T __swsetup_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a002800 00000002 W __aeabi_ldiv0
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a002220 000001d0 T __divdf3
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000478 00000408 D __malloc_av_
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001fcc 00000254 T __muldf3
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0071d4 00000022 T __sread
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000348 00000024 T paso_2
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001b48 0000001c T USB0_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00132c 00000034 T Chip_Clock_Disable
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W GPIO3_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0067d0 0000000c T __malloc_lock
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000998 00000014 T Board_UARTPutChar
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W SCT_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0058d0 0000005a T _fflush_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007360 0000005e T _calloc_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00104c 0000001c T Chip_Clock_GetDividerDivisor
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0002fc T __CRP_WORD_START__
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a005fec 00000002 T __retarget_lock_acquire_recursive
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a002980 000000a0 T memset
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00017c 00000002 W MemManage_Handler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0005f0 00000020 T main
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a9c 00000004 B __malloc_max_total_mem
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a005fe4 00000002 T __retarget_lock_init_recursive
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W WDT_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:2000c000 A __top_RamAHB16
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1008a000 A __top_RamLoc40
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000182 00000002 W SVC_Handler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007258 00000008 T __sclose
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a004930 00000e54 T _dtoa_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0060e4 00000570 T _malloc_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0076b0 0000001a T __ascii_wctomb
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001f70 0000005a T __aeabi_l2d
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W GPIO7_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0012bc 0000003c T Chip_Clock_EnableOpts
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000a02 00000008 T __stdio_getchar
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0059f4 000000a0 T _malloc_trim_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001068 000000b8 T Chip_Clock_GetClockInputHz
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001120 00000080 T Chip_Clock_CalcMainPLLValue
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00164c 00000038 T SystemInit
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W SPIFI_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W QEI_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000150 T __bss_section_table
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a002400 0000007a T __nedf2
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001a60 0000006a T gpioWrite
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000758 00000002 W _fini
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000c8c 00000040 T Chip_ADC_Init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000b00 00000004 B g_pUsbApi
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000a14 00000038 T Board_SetupMuxing
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000b44 000000dc T Chip_UART_SetBaudFDR
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0016a0 0000000c T tickRead
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0007da 00000028 T _write_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000040 00000008 D tickRateMS
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000dca 00000022 T Chip_ADC_SetBurstCmd
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W ETH_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000048 00000004 D _impure_ptr
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a005784 0000014a T __sflush_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000000 ? _end_uninit_RESERVED
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W CAN0_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0075a0 0000002a T __ascii_mbtowc
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000000 D _data
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000b28 B _pvHeapStart
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000178 T __section_table_end
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000390 00000024 T paso_4
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001598 00000038 T Chip_SSP_Init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W GINT0_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:100009f8 00000001 B estadoTecla
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a005ff4 0000005c T __swhatbuf_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W DAC_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000974 00000024 T Board_Debug_Init
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00249c 00000012 T __aeabi_dcmpeq
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0009f8 0000000a T __stdio_putchar
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000d20 00000022 T Chip_ADC_Int_SetChannelCmd
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:100009f4 D _edata
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0015d0 00000020 T Chip_I2C_EventHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W M0SUB_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000480 00000064 T inicializar_bobinas_MEF
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007490 0000009e T __fputwc
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000b18 00000001 B __lock___at_quick_exit_mutex
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0003c8 0000001c T inicializar_tecla
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0013c4 00000158 T Chip_SetupCoreClock
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0071f8 0000003e T __swrite
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W GPIO0_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000884 00000004 D __malloc_trim_threshold
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000000 00000040 T g_pfnVectors
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a005f88 00000052 T _fwalk_reent
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0013ac 00000014 T SystemCoreClockUpdate
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a006c44 000000f8 T __mdiff
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0076f8 0000004e T __aeabi_d2iz
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W DMA_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W EVRT_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1b080000 A __top_MFlashB512
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0059e8 0000000c T __sfp_lock_release
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007b44 00000101 T _ctype_
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a002800 00000002 W __aeabi_idiv0
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0076cc 0000002c T __unorddf2
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000300 00000024 T paso_inicial
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00017e 00000002 W BusFault_Handler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000b1c 00000001 B __lock___dd_hash_mutex
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a006050 00000094 T __smakebuf_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000b20 00000001 B __lock___tz_mutex
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a002a80 000000dc T strlen
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0012f8 00000034 T Chip_Clock_Enable
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00248c 00000010 T __aeabi_cdcmpeq
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0023f0 0000008a T __gedf2
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W UART3_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001c38 0000001c T delayWrite
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W MCPWM_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00734c 00000014 T __sprint_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W M0APP_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001aca 00000068 T gpioRead
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001f1c 00000042 T __aeabi_f2d
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00036c 00000024 T paso_3
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001b64 00000074 T boardInit
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000a4a 00000001 B estadoProximo
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000040 000000d4 T g_pfnVendorVectors
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001c5c 0000027a T __subdf3
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a002b60 00001b54 T _vfprintf_r
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W GINT1_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000324 00000024 T paso_1
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a006914 00000060 T __lo0bits
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0016ac 00000018 T tickPowerSet
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000af8 00000001 B fin_tiempo_lectura
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a00062c 000000a0 T actualiza_lectura_analogica
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a007168 0000006c T frexp
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000888 0000016c D __global_locale
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001230 00000058 T Chip_Clock_SetBaseClock
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a001684 0000001c T cyclesCounterInit
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a0001ba 00000002 W GPIO4_IRQHandler
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000b24 00000001 B __lock___sfp_recursive_mutex
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a000ab8 0000000c T Board_SystemInit
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a006848 0000008a T __multadd
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:10000aa8 00000018 B delayTecla
+misProgramas/motorpasopasomodul3/out/motorpasopasomodul3.elf:1a006834 00000012 T _Bfree
